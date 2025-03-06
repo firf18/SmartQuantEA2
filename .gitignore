@@ -1,0 +1,4 @@
+# Ignora ficheros compilados y logs
+*.ex5
+*.log
+Logs/
